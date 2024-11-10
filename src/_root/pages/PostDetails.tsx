@@ -11,8 +11,6 @@ import {
 } from "@/lib/react-query/queries";
 import { multiFormatDateString } from "@/lib/utils";
 import { useUserContext } from "@/context/AuthContext";
-import { useQuery } from "@tanstack/react-query";
-import { getUserPosts } from "@/lib/appwrite/api";
 
 const PostDetails = () => {
   const navigate = useNavigate();
