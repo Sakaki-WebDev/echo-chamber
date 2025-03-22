@@ -281,6 +281,6 @@
   }
 
   .shad-button_ghost {
-    @apply bg-maroon-500 flex gap-4 items-center justify-start hover:bg-transparent hover:text-white !important;
+    @apply flex gap-4 items-center justify-start hover:bg-transparent hover:text-white !important;
   }
 }
