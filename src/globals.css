@@ -191,7 +191,7 @@
   .bottom-bar {
     @apply z-50 flex-between w-full sticky bottom-0 rounded-t-[25px] px-5 py-4 md:hidden;
     background: #990000;
-    opacity: 0.85;
+    opacity: 0.8;
   }
 
   /* File uploader */
