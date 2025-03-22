@@ -119,7 +119,7 @@ const SigninForm = () => {
             Don&apos;t have an account?
             <Link
               to="/sign-up"
-              className="text-primary-500 text-small-semibold ml-1">
+              className="text-red-800 text-small-semibold ml-1">
               Sign up
             </Link>
           </p>
