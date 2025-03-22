@@ -21,8 +21,8 @@ const Topbar = () => {
           <img
             src="/assets/images/logo4.png"
             alt="logo"
-            width={130}
-            height={325}
+            width={230}
+            height={425}
           />
         </Link>
 
